@@ -4,6 +4,6 @@
 
 ## Módulo 03 - Back-end
 
-- CRUD SQL
+- Query Builder
 
 ###### tags: `módulo 3` `banco de dados` `nodeJS` `SQL` `postgresql`
